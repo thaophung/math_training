@@ -1,0 +1,7 @@
+- using scale
+- not change lr_mult
+- 10k iteration
+- still using "inv" for learning
+- using sigmoid
+- pooling: MAX
+- no weight_decay
